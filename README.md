@@ -9,11 +9,17 @@ Team:
 
 Evaluation:
 - 40% Written exam
-- 15% Lab assignments
-- 45% Project & report
+- 15% Lab assignments (4 assignments)
+- 45% Project & report (details soon..)
+
+Minimum criteria:
+- Written exam >= 5
+- Project & report >=5
+- At least 2 lab assignments are presented
+-8 lab attendances
 
 Teams channel code: j8zn8u3
 
-Laboratories and homeworks: [labs/](labs/)
+Laboratories and homeworks: [labs/](labs)
 
   
