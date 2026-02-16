@@ -16,10 +16,20 @@ Minimum criteria:
 - Written exam >= 5
 - Project & report >=5
 - At least 2 lab assignments are presented
--8 lab attendances
+- 8 lab attendances
 
 Teams channel code: j8zn8u3
 
 Laboratories and homeworks: [labs/](labs)
+
+Project & report plan: 
+
+| Project | Report | Deadline 
+|------------|---------|-------|--------|
+| - | Problem statement & related work | 6 |
+| Exploratory data analysis. |  Dataset & EDA | 7 |
+| Apply 2 algorithms and compare the results | Algorithms | 8 |
+| Enhancements | Enhancements | 9/10 |
+| Project presentation | Ethics & SWOT analysis | 11/12 |
 
   
