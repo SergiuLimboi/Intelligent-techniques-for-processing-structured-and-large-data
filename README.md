@@ -9,8 +9,8 @@ Team:
 
 Evaluation:
 - 40% Written exam
-- 15% Lab assignments (4 assignments)
-- 45% Project & report (details soon..)
+- 10% Lab assignments (3 assignments)
+- 50% Project & report (details soon..)
 
 Minimum criteria:
 - Written exam >= 5
@@ -22,14 +22,17 @@ Teams channel code: j8zn8u3
 
 Laboratories and homeworks: [labs/](labs)
 
+During the week 5 you will receive the project theme.
+
 Project & report plan: 
 
-| Project | Report | Deadline 
-|------------|---------|-------|--------|
-| - | Problem statement & related work | 6 |
-| Exploratory data analysis. |  Dataset & EDA | 7 |
-| Apply 2 algorithms and compare the results | Algorithms | 8 |
-| Enhancements | Enhancements | 9/10 |
-| Project presentation | Ethics & SWOT analysis | 11/12 |
+| App / Code     | Points | Report                                      | Points | Deadline   |
+|---------------|--------|---------------------------------------------|--------|------------|
+| –             | –      | Problem description; survey of related work | TBD     | Week 6     |
+| EDA           |      | EDA                                         |      | Week 7     |
+| AI & large data |     | Description of the pipeline & first results |      | Week 8/9     |
+| AI & another large data |      | New experiments & results                   |      | Week 10-11    |
+| –             | –      | SWOT analysis, ethical impact of the theme and project presentation      |    | Week 12 |
+
 
   
