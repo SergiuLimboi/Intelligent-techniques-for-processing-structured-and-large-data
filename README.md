@@ -21,6 +21,7 @@ Minimum criteria:
 Teams channel code: j8zn8u3
 
 Lectures: [Lectures/](Lectures)
+
 Laboratories and homeworks: [labs/](labs)
 
 During the week 5 you will receive the project theme.
