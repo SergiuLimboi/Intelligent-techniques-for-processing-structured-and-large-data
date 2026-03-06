@@ -27,9 +27,9 @@ Laboratories and homeworks: [labs/](labs)
 Timeline:
 
 | Week    | Lecture | Laboratory |    |
-|---------------|--------|---------------------------------------------|--------|
-| 23-27 February 2023    | Introduction into Data analysis & Data mining & Knowledge discovery     | Assignment 1: Processing large and structured data       |
-
+|---------------|--------|---------------------------------------------|
+| 23-27 February    | [Introduction into Data analysis & Data mining & Knowledge discovery]](Lectures/Intelligent_techniques_Lecture1.pdf     | Assignment 1: Processing large and structured data       |
+| 2-6 March | Data understanding & Data quality in large-scale systems | Assignment 2: Data vizualization for large and structured data
 
 
 
