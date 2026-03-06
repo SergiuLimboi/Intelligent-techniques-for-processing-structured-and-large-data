@@ -26,13 +26,10 @@ Laboratories and homeworks: [labs/](labs)
 
 Timeline:
 
-| Week    | Lecture | Laboratory |    |
-|---------------|--------|---------------------------------------------|
-| 23-27 February    | [Introduction into Data analysis & Data mining & Knowledge discovery]](Lectures/Intelligent_techniques_Lecture1.pdf     | Assignment 1: Processing large and structured data       |
-| 2-6 March | Data understanding & Data quality in large-scale systems | Assignment 2: Data vizualization for large and structured data
-
-
-
+| Week | Lecture | Laboratory |
+|------|--------|------------|
+| 23-27 February | [Introduction into Data analysis & Data mining & Knowledge discovery](Lectures/Intelligent_techniques_Lecture1.pdf) | Assignment 1: Processing large and structured data |
+| 2-6 March | [Data understanding & Data quality in large-scale systems](Lectures/Intelligent_techniques_Lecture2.pdf) | Assignment 2: Data vizualization for large and structured data |
 During the week 5 you will receive the project theme.
 
 Project & report plan: 
