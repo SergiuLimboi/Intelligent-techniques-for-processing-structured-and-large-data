@@ -24,6 +24,15 @@ Lectures: [Lectures/](Lectures)
 
 Laboratories and homeworks: [labs/](labs)
 
+Timeline:
+
+| Week    | Lecture | Laboratory |    |
+|---------------|--------|---------------------------------------------|--------|
+| 23-27 February 2023    | Introduction into Data analysis & Data mining & Knowledge discovery     | Assignment 1: Processing large and structured data       |
+
+
+
+
 During the week 5 you will receive the project theme.
 
 Project & report plan: 
