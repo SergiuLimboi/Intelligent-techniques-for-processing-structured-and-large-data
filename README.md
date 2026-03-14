@@ -31,17 +31,9 @@ Timeline:
 | 23-27 February | [Introduction into Data analysis & Data mining & Knowledge discovery](Lectures/Intelligent_techniques_Lecture1.pdf) | [Assignment 1: Processing large and structured data](/labs/lab1/Assignment1.ipynb) |
 | 2-6 March | [Data understanding & Data quality in large-scale systems](Lectures/Intelligent_techniques_Lecture2.pdf) | [Assignment 2: Data vizualization for large and structured data](/labs/lab2/Assignment2.ipynb) |
 | 9-13 March | [Processing Large Structured Data: Architectures, Formats, and Scalable Analytics](Lectures/Intelligent_techniques_Lecture3.pdf) | [Assignment 3: Understanding data and relationships between data](/labs/lab3/Assignment3.ipynb) |
+|16-20 March | | Project requirements and presentation of projec topics|
 
 
-Project & report plan: 
-
-| App / Code     | Points | Report                                      | Points | Deadline   |
-|---------------|--------|---------------------------------------------|--------|------------|
-| –             | –      | Problem description; survey of related work | TBD     | Week 6     |
-| EDA           |      | EDA                                         |      | Week 7     |
-| AI & large data |     | Description of the pipeline & first results |      | Week 8/9     |
-| AI & another large data |      | New experiments & results                   |      | Week 10-11    |
-| –             | –      | SWOT analysis, ethical impact of the theme and project presentation      |    | Week 12 |
 
 
   
