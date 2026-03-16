@@ -33,7 +33,7 @@ Timeline:
 | 9-13 March | [Processing Large Structured Data: Architectures, Formats, and Scalable Analytics](Lectures/Intelligent_techniques_Lecture3.pdf) | [Assignment 3: Understanding data and relationships between data](/labs/lab3/Assignment3.ipynb) |
 |16-20 March | | [Project requirements and presentation of projec topics.](Project) |
 
-
+[Project teams and selected topics](https://ubbcluj-my.sharepoint.com/:x:/r/personal/sergiu_limboi_ubbcluj_ro/_layouts/15/doc.aspx?sourcedoc=%7B65c968c0-edef-48fa-a739-7379137adf44%7D&action=edit)
 
 
   
