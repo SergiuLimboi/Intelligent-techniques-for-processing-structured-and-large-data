@@ -37,4 +37,6 @@ Timeline:
 [Project teams and selected topics](https://ubbcluj-my.sharepoint.com/:x:/g/personal/sergiu_limboi_ubbcluj_ro/IQDgfYAYuVw0Sa7ne_W9Gj_XATmqTvF1YFMTnFWPvQIN-9A?e=xi9Slm)
 
 
+[Github assignment for project](https://classroom.github.com/a/PhKT2PxW)
+
   
