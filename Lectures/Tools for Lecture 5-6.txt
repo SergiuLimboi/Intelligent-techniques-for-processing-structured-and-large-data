@@ -1,0 +1,7 @@
+Cloud environment: https://confluent.cloud/
+Setup:
+-create an account and choose the free tier
+-you will receive an API key and password
+-used cloud provider: AWS
+-messaging queue: Kafka
+
