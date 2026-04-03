@@ -33,7 +33,9 @@ Timeline:
 | 9-13 March | [Processing Large Structured Data: Architectures, Formats, and Scalable Analytics](Lectures/Intelligent_techniques_Lecture3.pdf) | [Assignment 3: Understanding data and relationships between data](/labs/lab3/Assignment3.ipynb) |
 |16-20 March | [Large-scale Data Mining](Lectures/Intelligent_techniques_Lecture4.pdf)| [Project requirements and presentation of project topics.](Project) |
 | 23-27 March | - | [Project phase 1: Problem definition and data understanding](Project/Phase1.pdf) |
-| 30 March- 3 April| [Large-scale Data Mining](Lectures/Intelligent_techniques_Lecture5-6.pdf) | [Project phase 2: Exploratory Data Analysis & Feature Engineering](Project/Phase2.pdf) |
+| 30 March- 3 April| [Large-scale Data Mining](Lectures/Intelligent_techniques_Lecture5-6.pdf)
+                     [Live demo used tools](Lectures/Tools for Lecture 5-6.txt)
+ | [Project phase 2: Exploratory Data Analysis & Feature Engineering](Project/Phase2.pdf) |
 
 
 [Project teams and selected topics](https://ubbcluj-my.sharepoint.com/:x:/g/personal/sergiu_limboi_ubbcluj_ro/IQDgfYAYuVw0Sa7ne_W9Gj_XATmqTvF1YFMTnFWPvQIN-9A?e=xi9Slm)
