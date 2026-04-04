@@ -34,7 +34,7 @@ Timeline:
 |16-20 March | [Large-scale Data Mining](Lectures/Intelligent_techniques_Lecture4.pdf)| [Project requirements and presentation of project topics.](Project) |
 | 23-27 March | - | [Project phase 1: Problem definition and data understanding](Project/Phase1.pdf) |
 | 30 March - 3 April | [Large-scale Data Mining](Lectures/Intelligent_techniques_Lecture5-6.pdf) <br> [Live demo used tools](Lectures/Tools%20for%20Lecture%205-6.txt)<br>[Example](Lectures/Live%20demo) | [Project phase 2: Exploratory Data Analysis & Feature Engineering](Project/Phase2.pdf) |
-
+| 6-10 April| |[Project phase 3: Baseline model](Project/Phase3.pdf)|
 
 [Project teams and selected topics](https://ubbcluj-my.sharepoint.com/:x:/g/personal/sergiu_limboi_ubbcluj_ro/IQDgfYAYuVw0Sa7ne_W9Gj_XATmqTvF1YFMTnFWPvQIN-9A?e=xi9Slm)
 
