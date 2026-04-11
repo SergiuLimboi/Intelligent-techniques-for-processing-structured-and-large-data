@@ -10,7 +10,7 @@ Team:
 Evaluation:
 - 40% Written exam
 - 10% Lab assignments (3 assignments)
-- 50% Project & report (details soon..)
+- 50% Project & report 
 
 Minimum criteria:
 - Written exam >= 5
@@ -35,6 +35,7 @@ Timeline:
 | 23-27 March | - | [Project phase 1: Problem definition and data understanding](Project/Phase1.pdf) |
 | 30 March - 3 April | [Data Stream Mining](Lectures/Intelligent_techniques_Lecture5-6.pdf) <br> [Live demo used tools](Lectures/Tools%20for%20Lecture%205-6.txt)<br>[Example](Lectures/Live%20demo) | [Project phase 2: Exploratory Data Analysis & Feature Engineering](Project/Phase2.pdf) |
 | 6-10 April| [Anomaly Detection at Scale: Finding Rare Signals in Massive and Streaming Data](Lectures/Lecture7/Intelligent_techniques_Lecture7.pdf) <br> [Example](Lectures/Lecture7/Lecture7.ipynb)|[Project phase 3: Baseline model](Project/Phase3.pdf)|
+| 20-24 April | [Invited guest: Microsoft GenAI Engineer]() | [Project phase 4: Enhacenements]()  |
 
 [Project teams and selected topics](https://ubbcluj-my.sharepoint.com/:x:/g/personal/sergiu_limboi_ubbcluj_ro/IQDgfYAYuVw0Sa7ne_W9Gj_XATmqTvF1YFMTnFWPvQIN-9A?e=xi9Slm)
 
