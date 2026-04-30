@@ -36,7 +36,7 @@ Timeline:
 | 30 March - 3 April | [Data Stream Mining](Lectures/Intelligent_techniques_Lecture5-6.pdf) <br> [Live demo used tools](Lectures/Tools%20for%20Lecture%205-6.txt)<br>[Example](Lectures/Live%20demo) | [Project phase 2: Exploratory Data Analysis & Feature Engineering](Project/Phase2.pdf) |
 | 6-10 April| [Anomaly Detection at Scale: Finding Rare Signals in Massive and Streaming Data](Lectures/Lecture7/Intelligent_techniques_Lecture7.pdf) <br> [Example](Lectures/Lecture7/Lecture7.ipynb)|[Project phase 3: Baseline model](Project/Phase3.pdf)|
 | 20-24 April | [Invited guest: Iulia Istrate-GenAI Engineer @Microsoft](https://github.com/iuf26/agenticai-expo) | [Project phase 4: Model improvement, optimization and comparative experiments](Project/Phase4.pdf)  |
-| 27-30 April | [Recommender Systems]() | [Project phase 5: Model generalization and system prototype](Project/Phase5.pdf)  |
+| 27-30 April | [Recommendation Systems: From Patterns to Personalized Decisions](Lectures/Intelligent_techniques_Lecture9.pdf) | [Project phase 5: Model generalization and system prototype](Project/Phase5.pdf)  |
 | 4-8 May | [Invited guest: World Bank]() | [Project phase 6: Production Deployment & Impact Evaluation](Project/Phase6.pdf) |
 
 [Project teams and selected topics](https://ubbcluj-my.sharepoint.com/:x:/g/personal/sergiu_limboi_ubbcluj_ro/IQDgfYAYuVw0Sa7ne_W9Gj_XATmqTvF1YFMTnFWPvQIN-9A?e=xi9Slm)
