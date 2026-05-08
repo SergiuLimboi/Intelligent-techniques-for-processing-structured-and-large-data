@@ -38,6 +38,8 @@ Timeline:
 | 20-24 April | [Invited guest: Iulia Istrate-GenAI Engineer @Microsoft](https://github.com/iuf26/agenticai-expo) | [Project phase 4: Model improvement, optimization and comparative experiments](Project/Phase4.pdf)  |
 | 27-30 April | [Recommendation Systems: From Patterns to Personalized Decisions](Lectures/Intelligent_techniques_Lecture9.pdf) | [Project phase 5: Model generalization and system prototype](Project/Phase5.pdf)  |
 | 4-8 May | [Invited guest: Dan Miclea @WorldBank & Alexandra Todericiu @Microsoft USA](Lectures/Intelligent_techniques_Lecture10.pdf) | [Project phase 6: Production Deployment & Impact Evaluation](Project/Phase6.pdf) |
+| 11-15 May | []() | [Project phase 7: Final presentations](Project/Phase7.pdf) |
+
 
 [Project teams and selected topics](https://ubbcluj-my.sharepoint.com/:x:/g/personal/sergiu_limboi_ubbcluj_ro/IQDgfYAYuVw0Sa7ne_W9Gj_XATmqTvF1YFMTnFWPvQIN-9A?e=xi9Slm)
 
